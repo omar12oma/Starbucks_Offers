@@ -14,17 +14,15 @@ pip install scikit-learn
 
 ## File Descriptions
 
-1. **Developers_and_AI.ipynb**: Notebook contains the data analysis
+1. **Starbucks_Capstone_notebook.ipynb**: Notebook contains the data analysis
 
-2. **utils.py**: This file contains utility functions used across multiple modules of our project. It includes helper functions for file I/O, data preprocessing, and visualization.
+2. **profile.json**: demographic data for each customer
 
-3. **profile.json**: demographic data for each customer
+3. **transcript.csv**:  records for transactions, offers received, offers viewed, and offers completed
 
-4. **transcript.csv**:  records for transactions, offers received, offers viewed, and offers completed
-
-5. **portfolio.json**: containing offer ids and meta data about each offer (duration, type, etc.)
+4. **portfolio.json**: containing offer ids and meta data about each offer (duration, type, etc.)
    
-6. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
+5. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
 
 
 ## Blog Post

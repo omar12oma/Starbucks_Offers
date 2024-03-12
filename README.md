@@ -1,6 +1,6 @@
 # Starbucks_Offers
 
-In this project we will look at Stack Overflow 2023 Developer Survey and developers opinion about using AI tools.
+In this project we will take a look at Starbucks' offers and what type of offers each type of customer prefers.
 
 ## Installation
 

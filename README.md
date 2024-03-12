@@ -28,4 +28,4 @@ pip install scikit-learn
 
 
 ## Blog Post
-[Blog Post](https://medium.com/@ooomm77/unveiling-starbucks-offers-understanding-customer-preferences-b7f8b01a0fb2)
+[Blog Post](https://medium.com/@ooomm77/starbucks-capstone-project-138ebcbdca99)

@@ -34,4 +34,4 @@ pip install scikit-learn
 [Blog Post](https://medium.com/@ooomm77/starbucks-capstone-project-138ebcbdca99)
 
 ## Acknowledgements
-Thanks Udacity for this great and meaningful project.
+Thanks [Udacity](https://www.udacity.com/) for this great and meaningful project.

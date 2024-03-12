@@ -22,7 +22,7 @@ pip install scikit-learn
 
 4. **portfolio.json**: containing offer ids and meta data about each offer (duration, type, etc.)
    
-5. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
+5. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions,Blog Post, and other relevant information.
 
 
 ## Blog Post

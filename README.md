@@ -2,6 +2,9 @@
 
 In this project we will take a look at Starbucks' offers and what type of offers each type of customer prefers.
 
+## motivation 
+The project motivation revolves around three key inquiries aimed at optimizing Starbucks' promotional strategies. Firstly, understanding the prevalent types of offers customers favor is crucial for tailoring promotions to enhance engagement and satisfaction. Secondly, discerning if offer preferences vary across gender lines enables the development of targeted marketing approaches, identifying which gender demonstrates a stronger inclination towards utilizing Starbucks' promotions. Lastly, investigating whether offer preferences fluctuate based on income levels ensures inclusivity in promotional efforts, guiding the design of promotions that resonate with customers across diverse socioeconomic backgrounds. By addressing these questions, Starbucks can refine its promotional tactics to better meet the preferences and needs of its customer base.
+
 ## Installation
 
 ```python
@@ -29,3 +32,6 @@ pip install scikit-learn
 
 ## Blog Post
 [Blog Post](https://medium.com/@ooomm77/starbucks-capstone-project-138ebcbdca99)
+
+## Credits
+Thanks Udacity for this great and meaningful project.

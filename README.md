@@ -21,8 +21,10 @@ pip install scikit-learn
 3. **transcript.csv**:  records for transactions, offers received, offers viewed, and offers completed
 
 4. **portfolio.json**: containing offer ids and meta data about each offer (duration, type, etc.)
+
+5. **TRC.csv **: CSV file to save time 
    
-5. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions,Blog Post, and other relevant information.
+6. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions,Blog Post, and other relevant information.
 
 
 ## Blog Post
